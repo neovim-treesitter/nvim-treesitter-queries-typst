@@ -1,7 +1,7 @@
 {
-  "semver": false,
   "url": "https://github.com/uben0/tree-sitter-typst",
-  "lang": "typst",
+  "semver": false,
   "parser_version": "46cf4ded12ee974a70bf8457263b67ad7ee0379d",
-  "location": null
+  "location": null,
+  "lang": "typst"
 }
